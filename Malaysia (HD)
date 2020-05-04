@@ -9,8 +9,8 @@ http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/1358
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3 HD
 http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/1357
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/365_144.png",Colors HD
-http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/18615
+#EXTINF:-1 tvg-logo="https://merchant.tvalhijrah.com/application/storage/system/logo.png",Alhijrah
+http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/18554
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/296_144.png",Hello HD
 https://agplayback03.aotg-video.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
@@ -36,14 +36,14 @@ https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/dramasangat.png",Drama Sangat FHD
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/365_144.png",Colors HD
+http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/18615
+
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/bernama.png",BERNAMA
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1587852056/ei/uF6kXvHmAciWvwTNwbOoAw/ip/202.187.186.36/id/Nkp6aUDGf4Q.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r1---sn-uphxqvujvh-30a6.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/8700/mh/tC/mm/44/mn/sn-uphxqvujvh-30a6/ms/lva/mv/m/mvi/0/pcm2cms/yes/pl/15/dover/11/keepalive/yes/beids/9466587/mt/1587830361/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIgGtrCzn9yF2_wIlBRE2nklO-gOtm_I1xmaN8b9aQs-4wCIQD9V64Mv1aEauZSLsPzKrKbdua9XQQDzg7sarh2Iymx0A%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pcm2cms,pl/lsig/AG3C_xAwRgIhANr0Oz8aKqcjiZwg6SPSBIpuZ0-RxAB80LHbR1yHH7CQAiEAnVF1FiovGQiE0UNuJGJcrt9X8EtUkmCcl6eQ1AS96EY%3D/playlist/index.m3u8|Referer=https://www.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0dyJK7.jpg",TV Ikim
 http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png",Astro Aod
-http://198.16.106.58:8278/aod361_twn/playlist.m3u8?tid=m02499032293817237413&ct=18380&tsum=11c87c6f787722e8dffb4b7162b59bf7
 
 #EXTINF: 1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",Prima HD
 http://47.240.60.73/xaors/mlxy.php?channel=b5cfafb25c6d34582ee0a221ec43327d
@@ -63,23 +63,44 @@ https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",Citra HD
 http://47.240.60.73/xaors/mlxy.php?channel=95ba3847447d46019b41ee6b75c5ca67
 
-#EXTINF: 1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7e749180-7002-11ea-b006-9d7e706a5277/170854/27341459.png",Ceria HD
-http://47.240.60.73/xaors/mlxy.php?channel=e812a3049d85fef4f2ad37b145c9bd62
+#EXTINF:-1 tvg-logo="https://www.tm.com.my/hypptvdatabase/Channels/salam.png",Salam
+http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/12111
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/65SpgyC.png",Dunia Senima
 http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/18595
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/192_144.png",Go Shop Ruuma
+#EXTINF:-1 tvg-logo="https://www.tm.com.my/hypptvdatabase/Channels/pesona.png",Pesona
+http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/18562
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/192_144.png",GO Shop 1
 https://agplayback03.aotg-video.astro.com.my/CH1/master_GOSHOP.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/192_144.png",Go Shop Gaaya
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/192_144.png",GO Shop 2
 https://agplayback03.aotg-video.astro.com.my/CH3/master_GOSHOP3.m3u8
 
-#EXTINF: 1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11007278_ico.png?ts=1588347685",BOO
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/192_144.png",GO Shop 3
+http://iptvhit.live/MijiNiko/gBFfzh84hJ/ye6AwNahOA/8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/1/1f/Astro_vaanavil.jpg",Vaanavil
+http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/18618
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Colors_Tamil.png",Colors Tamil
+https://yuppcatchup.akamaized.net/preview/colorstamil/1800.m3u8?hdnts=st=1588006498~exp=1588007098~acl=!*/20/preview/colorstamil/*!/payload/yuppTVCom_5_-1_e87a03cd0e1c4208_MY_42.189.79.161/*~hmac=4d7c0a995b51b1b88956016a7316b27119ee6511a2e12e4e8f341ea16a0df3b7
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png",Aod
+http://198.16.106.58:8278/aod361_twn/playlist.m3u8?tid=m02499032293817237413&ct=18380&tsum=11c87c6f787722e8dffb4b7162b59bf7
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png",tvN Asia
+http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/18552
+
+#EXTINF: 1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11007278_ico.png?ts=1588347685",Boo HD
 http://47.240.60.73/xaors/mlxy.php?channel=9408336d8891dad41e74a394224eadbb
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png",tvN HD
-http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/18552
+#EXTINF: 1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest/scale-to-width-down/340?cb=20160516085732",Red By HBO
+http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/18561
+
+#EXTINF: 1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQfv5khetW4etSNU_2Rv3xlNMiq2Qvx0NleGSv2D844w7wqehRs&usqp=CAU",Fox Family Movies
+http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/18592
 
 #EXTINF:-1,TVN MOVIES MY
 http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/18551
@@ -105,5 +126,8 @@ https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=e
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/7_144.png", Disney Channel
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.ytimg.com/vi/0pXDXwUI3rA/maxresdefault.jpg",EGG Network
-http://210.210.155.66/h/h22/01.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png",Astro Aod
+http://198.16.106.58:8278/aod361_twn/playlist.m3u8?tid=m02499032293817237413&ct=18380&tsum=11c87c6f787722e8dffb4b7162b59bf7
+
+#EXTINF: 1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7e749180-7002-11ea-b006-9d7e706a5277/170854/27341459.png",Ceria HD
+http://47.240.60.73/xaors/mlxy.php?channel=e812a3049d85fef4f2ad37b145c9bd62
