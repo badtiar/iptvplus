@@ -165,5 +165,10 @@ http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/18622
 http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/18621
 #EXTINF:-1,ASTRO SUPERSPORTS 4 FHD MY
 http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/18620
-#EXTINF:-1,ASTRO ARENA FHD MY
-https://stream.mypadtv.com:8081/mypadtv/arena/playlist.m3u8
+
+#EXTINF:-1,TV1 MY
+http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/1359
+#EXTINF:-1,TV2 MY
+http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/1358
+#EXTINF:-1,TV3 MY
+http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/1357
