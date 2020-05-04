@@ -102,5 +102,5 @@ https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=e
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/7_144.png", Disney Channel
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/7_144.png", Warner TV
+#EXTINF:-1 tvg-logo="", Warner TV
 https://vcdnjt.useetv.com/joss/15/warner/chunklist_w1119689525_b1344100_sleng_papabor.m3u8
