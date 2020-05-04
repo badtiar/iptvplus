@@ -131,23 +131,37 @@ http://fr-c.movply.stream/hls/star-sports-1-hd.m3u8
 http://stream.fs1.tv:8080/hls/webstream.m3u8
 #EXTINF: 1 group-title="SPORT VIP", FS News
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF: 1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7e749180-7002-11ea-b006-9d7e706a5277/170862/27341624.png" group-title="SPORT VIP", AF Supersport 1
-https://proxy-16.sg1.dailymotion.com/sec(-kHz2yg5cxxA1BkCmIG5ldROZM-AdTgSja7hKeSzuNjD5wih8SnStkgqQ7mCtJ8I7q1ixzr1QzSDS8tsd-iRtCS86_lbFRsLcmruuDSF6rI)/video/041/422/472224140_mp4_h264_aac_fhd.m3u8#cell=sg1&qos_ugc=1&qos_stail=1
-#EXTINF: 1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7e749180-7002-11ea-b006-9d7e706a5277/170862/27341625.png" group-title="SPORT VIP", AF Supersport 2
-https://proxy-16.sg1.dailymotion.com/sec(-kHz2yg5cxxA1BkCmIG5ldROZM-AdTgSja7hKeSzuNjD5wih8SnStkgqQ7mCtJ8I7q1ixzr1QzSDS8tsd-iRtCS86_lbFRsLcmruuDSF6rI)/video/041/422/472224140_mp4_h264_aac_fhd.m3u8#cell=sg1&qos_ugc=1&qos_stail=1
-#EXTINF: 1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7e749180-7002-11ea-b006-9d7e706a5277/170862/27341626.png" group-title="SPORT VIP", AF Supersport 3
-https://proxy-16.sg1.dailymotion.com/sec(-kHz2yg5cxxA1BkCmIG5ldROZM-AdTgSja7hKeSzuNjD5wih8SnStkgqQ7mCtJ8I7q1ixzr1QzSDS8tsd-iRtCS86_lbFRsLcmruuDSF6rI)/video/041/422/472224140_mp4_h264_aac_fhd.m3u8#cell=sg1&qos_ugc=1&qos_stail=1
-#EXTINF: 1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7e749180-7002-11ea-b006-9d7e706a5277/170862/27341627.png" group-title="SPORT VIP", AF Supersport 4
-https://proxy-16.sg1.dailymotion.com/sec(-kHz2yg5cxxA1BkCmIG5ldROZM-AdTgSja7hKeSzuNjD5wih8SnStkgqQ7mCtJ8I7q1ixzr1QzSDS8tsd-iRtCS86_lbFRsLcmruuDSF6rI)/video/041/422/472224140_mp4_h264_aac_fhd.m3u8#cell=sg1&qos_ugc=1&qos_stail=1
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7e749180-7002-11ea-b006-9d7e706a5277/170862/27341628.png" group-title="SPORT VIP", BEIN SPORTS 1
-ttp://skdn.redi-vo.com/iptv/ch8111?code=103131497823984&key=33281
-#EXTINF: -1 group-title="SPORT VIP", BEIN SPORTS 2
-http://skdn.redi-vo.com/iptv/ch112?code=103131497823984&key=46098
-#EXTINF: -1 group-title="SPORT VIP", BEIN SPORTS 3
-http://skdn.redi-vo.com/iptv/ch8113?code=103131497823984&key=46519
-#EXTINF: -1 group-title="SPORT VIP", BEIN SPORTS 4
-http://skdn.redi-vo.com/iptv/ch114?code=103131497823984&key=46165
-#EXTINF: -1 group-title="SPORT VIP", BEIN SPORTS 5
-http://skdn.redi-vo.com/iptv/ch115?code=103131497823984&key=45992
-#EXTINF: -1 group-title="SPORT VIP", BEIN SPORTS 6
-http://skdn.redi-vo.com/iptv/ch117?code=103131497823984&key=58844
+#EXTINF:-1,ANI PLUS HD MY
+http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/18637
+#EXTINF:-1,ANIMAL PLANET MY
+http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/18636
+#EXTINF:-1,ANIMAX HD KD MY
+http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/18635
+#EXTINF:-1,ASIAN FOOD CHANNEL MY
+http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/18634
+#EXTINF:-1,bEIN MAX MY
+http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/18633
+#EXTINF:-1,ASTRO ARENA HD MY
+http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/18632
+#EXTINF:-1,ASTRO CERIA MY
+http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/18630
+#EXTINF:-1,ASTRO CRICKET HD MY
+http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/18629
+#EXTINF:-1,ASTRO OASIS HD MY
+http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/18628
+#EXTINF:-1,ASTRO PRIMA HD MY
+http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/18627
+#EXTINF:-1,ASTRO QUAN JIA HD MY
+http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/18626
+#EXTINF:-1,ASTRO RIA HD MY
+http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/18625
+#EXTINF:-1,ASTRO SHUANG XING HD MY
+http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/18624
+#EXTINF:-1,ASTRO SUPERSPORTS 1 FHD MY
+http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/18623
+#EXTINF:-1,ASTRO SUPERSPORTS 2 FHD MY
+http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/18622
+#EXTINF:-1,ASTRO SUPERSPORTS 3 FHD MY
+http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/18621
+#EXTINF:-1,ASTRO SUPERSPORTS 4 FHD MY
+http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/18620
