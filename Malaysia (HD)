@@ -72,6 +72,9 @@ http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/18595
 #EXTINF:-1 tvg-logo="https://www.tm.com.my/hypptvdatabase/Channels/pesona.png",Pesona
 http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/18562
 
+#EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/hypp-sensasi.png",Hypp Sensasi
+http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/18580
+
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/192_144.png",GO Shop 1
 https://agplayback03.aotg-video.astro.com.my/CH1/master_GOSHOP.m3u8
 
@@ -131,6 +134,3 @@ http://198.16.106.58:8278/aod361_twn/playlist.m3u8?tid=m02499032293817237413&ct=
 
 #EXTINF: 1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7e749180-7002-11ea-b006-9d7e706a5277/170854/27341459.png",Ceria HD
 http://47.240.60.73/xaors/mlxy.php?channel=e812a3049d85fef4f2ad37b145c9bd62
-
-#EXTINF:-1 tvg-name="HOLLYWOOD" tvg-logo="",HOLLYWOOD
-http://37.187.128.169:8000/live/iOS/toso/68.ts
