@@ -1,172 +1,192 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/95_144.png",TV1 HD
-http://5.9.104.141:25461/sabtu02/malamsabtu/4353
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/55480
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png",TV2 HD
-https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8|Referer=https://myklik.rtm.gov.my
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/55481
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3 HD
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQjYebjJyxNyK0LholSDZog)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com/cdn/live/video/x6qp375.m3u8?sec=rDula8zIgjPdGJpc650XaHw_OpIsJv9RS_646xieafYVv_wmVtk8ceAws_w1UY4fx4vWoUUdiR36bVgJetDLQA
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/55473
 
 #EXTINF:-1 tvg-logo="https://merchant.tvalhijrah.com/application/storage/system/logo.png",Alhijrah
-http://5.9.104.141:25461/sabtu02/malamsabtu/2246
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110160
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/296_144.png",Hello HD
-http://5.9.104.141:25461/sabtu02/malamsabtu/2322
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110236
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png",OKEY FHD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png",Okey
 https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png",NTV7 FHD
-http://5.9.104.141:25461/sabtu02/malamsabtu/4351
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png",NTV7
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/55442
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV FHD
-http://5.9.104.141:25461/sabtu02/malamsabtu/4349
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/55474
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png",TV9 FHD
-http://5.9.104.141:25461/sabtu02/malamsabtu/4350
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png",TV9
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/55475
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png",RTM Sports FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png",RTM Sports HD
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8|Referer=https://myklik.rtm.gov.my
 
-#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/bes.png",RTM Berita FHD
+#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/bes.png",RTM Berita HD
 https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
-#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/dramasangat.png",Drama Sangat FHD
-http://5.9.104.141:25461/sabtu02/malamsabtu/4352
-
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/365_144.png",Colors HD
-http://5.9.104.141:25461/sabtu02/malamsabtu/2247
-
-#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/bernama.png",BERNAMA
-http://5.9.104.141:25461/sabtu02/malamsabtu/2293
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110161
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0dyJK7.jpg",TV Ikim
 http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
 
 #EXTINF: 1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",Prima HD
-http://5.9.104.141:25461/sabtu02/malamsabtu/2242
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110156
 
 #EXTINF: 1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",Oasis HD
-http://5.9.104.141:25461/sabtu02/malamsabtu/2243
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110157
 
 #EXTINF: 1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",Ria HD
-http://5.9.104.141:25461/sabtu02/malamsabtu/2241
+ttp://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110155
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",Warna HD
-http://5.9.104.141:25461/sabtu02/malamsabtu/2244
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110158
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png",Naura HD
-http://5.9.104.141:25461/sabtu02/malamsabtu/2245
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110159
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",Citra HD
-http://5.9.104.141:25461/sabtu02/malamsabtu/4474
-
-#EXTINF:-1 tvg-logo="https://www.tm.com.my/hypptvdatabase/Channels/salam.png",Salam
-http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/12111
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/65SpgyC.png",Dunia Senima
-http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/18595
-
-#EXTINF:-1 tvg-logo="https://www.tm.com.my/hypptvdatabase/Channels/pesona.png",Pesona
-http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/18562
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110270
 
 #EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/hypp-sensasi.png",Hypp Sensasi
 http://user.streamtv.to:8080/LcFlTgdV6D/UWJkbgjfzZ/18580
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/192_144.png",GO Shop 1
-http://5.9.104.141:25461/sabtu02/malamsabtu/2248
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110162
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/192_144.png",GO Shop 2
-http://5.9.104.141:25461/sabtu02/malamsabtu/2249
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110163
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/192_144.png",GO Shop 3
-http://5.9.104.141:25461/sabtu02/malamsabtu/2264
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110178
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/1/1f/Astro_vaanavil.jpg",Vaanavil
-http://5.9.104.141:25461/sabtu02/malamsabtu/2250
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110164
 
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/7/7/2/772208946452c9f6f70c36e571c3e408_screen.png?h=500",Makkal TV
-http://5.9.104.141:25461/sabtu02/malamsabtu/2251
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110165
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/sun-tv-logo-33F737A981-seeklogo.com.gif",Sun TV
-http://5.9.104.141:25461/sabtu02/malamsabtu/2261
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110175
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/52/HD.SMU.jpg/revision/latest?cb=20180318045647",Sun Music
-http://5.9.104.141:25461/sabtu02/malamsabtu/2252
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110166
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4c/Chutti_TV.jpg/revision/latest/top-crop/width/220/height/220?cb=20190122082451",Chutti TV
-http://5.9.104.141:25461/sabtu02/malamsabtu/2253
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110167
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b4/Adithya_TV.jpg/revision/latest/scale-to-width-down/340?cb=20180318045832",Adithya
-http://5.9.104.141:25461/sabtu02/malamsabtu/2254
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110168
 
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/7d/7d81e3ca65caf973ae12a0b685e7ac6f.png",Jaya TV
-http://5.9.104.141:25461/sabtu02/malamsabtu/2255
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110169
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/26/Tamil_Rajtv.png/revision/latest/scale-to-width-down/340?cb=20160804101552",Raj TV
-http://5.9.104.141:25461/sabtu02/malamsabtu/2256
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110170
 
 #EXTINF:-1 tvg-logo="https://www.makansharing.com/img/Press/vinmeen.png",Vinmeen HD
-http://5.9.104.141:25461/sabtu02/malamsabtu/2258
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110172
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/68/Colors_Tamil.png/revision/latest/scale-to-width-down/340?cb=20181104100850",Colors Tamil
-http://5.9.104.141:25461/sabtu02/malamsabtu/2260
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110174
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/178_144.png",BollyOne HD
-http://5.9.104.141:25461/sabtu02/malamsabtu/2262
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png",Aod 351
-http://5.9.104.141:25461/sabtu02/malamsabtu/2272
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png",Aod 352
-http://5.9.104.141:25461/sabtu02/malamsabtu/2280
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png",Aod 353
-http://5.9.104.141:25461/sabtu02/malamsabtu/2281
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png",Aod 354
-http://5.9.104.141:25461/sabtu02/malamsabtu/2282
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110176
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png",Aod 355
-http://5.9.104.141:25461/sabtu02/malamsabtu/2283
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110197
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png",Aod 354
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110196
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png",Aod 353
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110195
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png",Aod 352
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110194
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/kbs_world.png",KBS World HD
-http://5.9.104.141:25461/sabtu02/malamsabtu/2284
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110198
+
+#EXTINF:-1 tvg-logo="https://i386.photobucket.com/albums/oo307/beautifulnara/beautifulnara032/ohk2.png",Ohk!
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110200
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/K_Plus_Asia_Logo.jpg/250px-K_Plus_Asia_Logo.jpg",KPlus HD
-http://5.9.104.141:25461/sabtu02/malamsabtu/2353
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110267
 
 #EXTINF:-1 tvg-logo="https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/393-300.png",Sony One HD
-http://5.9.104.141:25461/sabtu02/malamsabtu/2419
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110199
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png",tvN Asia
-http://5.9.104.141:25461/sabtu02/malamsabtu/2287
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110201
 
 #EXTINF: 1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11007278_ico.png?ts=1588347685",Boo HD
 http://47.240.60.73/xaors/mlxy.php?channel=9408336d8891dad41e74a394224eadbb
 
 #EXTINF: 1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest/scale-to-width-down/340?cb=20160516085732",HBO RED
-http://5.9.104.141:25461/sabtu02/malamsabtu/2408
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110198
 
 #EXTINF: 1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQfv5khetW4etSNU_2Rv3xlNMiq2Qvx0NleGSv2D844w7wqehRs&usqp=CAU",Fox Family Movies
-http://5.9.104.141:25461/sabtu02/malamsabtu/4477
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110273
 
 #EXTINF: 1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png",HBO HD
-http://5.9.104.141:25461/sabtu02/malamsabtu/2398
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110203
 
 #EXTINF: 1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",MAX HD
-http://5.9.104.141:25461/sabtu02/malamsabtu/2290
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110204
 
 #EXTINF: 1 tvg-logo="https://www.indihome.co.id/assets/images/channels/Minipack/IndiKorea/tvNmovie.png",tvN Movies
-http://5.9.104.141:25461/sabtu02/malamsabtu/2291
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110205
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ac/Astro_Tutor_TV_UPSR.png/revision/latest/scale-to-width-down/340?cb=20180618044552",Tutor TV UPSR
-http://5.9.104.141:25461/sabtu02/malamsabtu/2310
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110224
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ab/Astro_Tutor_TV_PT3.png/revision/latest/scale-to-width-down/340?cb=20180622041327",Tutor TV PT3
-http://5.9.104.141:25461/sabtu02/malamsabtu/2311
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110225
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwCtsauroXrYMAGOMJJOspG4Kky3N9bPYGfaY71Aw6U4eOkMFo&usqp=CAU",Tutor TV SPM
-http://5.9.104.141:25461/sabtu02/malamsabtu/2312
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110226
+
+#EXTINF:-1,MY: ASTRO CRICKET
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110265
+#EXTINF:-1,MY: ASTRO RUGBY PASS TV
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110264
+#EXTINF:-1,MY: GOLF CHANNEL HD
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110263
+#EXTINF:-1,MY: WWE NETWORK
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110262
+#EXTINF:-1,MY: EUROSPORT HD
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110261
+#EXTINF:-1,MY: bEIN MAX
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110260
+#EXTINF:-1,MY: beIN SPORTS
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110259
+#EXTINF:-1,MY: FOX SPORTS 3 HD
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110258
+#EXTINF:-1,MY: FOX SPORTS 2 HD
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110257
+#EXTINF:-1,MY: FOX SPORTS HD
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110256
+#EXTINF:-1,MY: ASTRO ASSP4 HD
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110255
+#EXTINF:-1,MY: ASTRO ASSP3 HD
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110254
+#EXTINF:-1,MY: ASTRO ASSP2 HD
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110253
+#EXTINF:-1,MY: ASTRO ASSP HD
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110252
+#EXTINF:-1,MY: ASTRO ARENA HD
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110251
+#EXTINF:-1,MY: eGG Network
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110250
+#EXTINF:-1,MY: ANIMAX
+http://bestbuyiptv.link:7899/XGrdnQdQWW/BdZzWEKWUw/110249
