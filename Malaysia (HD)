@@ -105,21 +105,49 @@ http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="", Warner TV
 https://vcdnjt.useetv.com/joss/15/warner/chunklist_w1119689525_b1344100_sleng_papabor.m3u8
 
-#EXTM3U
-#EXTINF:-1,ASTRO SUPERSPORT HD
-http://playbackn15.aotg-video.astro.com.my/CH1/master_AG4_8.m3u8
-#EXTINF:-1,ASTRO SUPERSPORT LIVE HD
-http://playbackn15.aotg-video.astro.com.my/CH3/master_AG6_8.m3u8
-#EXTINF:-1,ASTRO SUPERSPORT LIVE HD
-http://playbackn15.aotg-video.astro.com.my/CH2/master_AG5_8.m3u8
-#EXTINF:-1,ASTRO ARENA HD
-http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
-
-#EXTINF:-1,MY: Astro SuperSport 1 HD
-http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/147234
-#EXTINF:-1,MY: Astro SuperSport 2 HD
-http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/147235
-#EXTINF:-1,MY: Astro SuperSport 3 HD
-http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/147236
-#EXTINF:-1,MY: Astro SuperSport 4 HD
-http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/147237
+#EXTINF: 1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7e749180-7002-11ea-b006-9d7e706a5277/170862/27341611.png" group-title="SPORT VIP", EuroSport 1
+http://livegopanel.club:8080/live/dt6SU8zQDw/vnJxFk69h2/7290.m3u8
+#EXTINF: 1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7e749180-7002-11ea-b006-9d7e706a5277/170862/27341612.png" group-title="SPORT VIP", EuroSport 2
+http://livegopanel.club:8080/live/dt6SU8zQDw/vnJxFk69h2/7291.m3u8
+#EXTINF: 1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7e749180-7002-11ea-b006-9d7e706a5277/170862/27341613.png" group-title="SPORT VIP", EuroSport 2 backup
+http://5.135.92.133:52841/out/u/511_1.m3u8
+#EXTINF: 1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7e749180-7002-11ea-b006-9d7e706a5277/170862/27341614.png" group-title="SPORT VIP", RUSH Special
+https://proxy-16.sg1.dailymotion.com/sec(-kHz2yg5cxxA1BkCmIG5ldROZM-AdTgSja7hKeSzuNjD5wih8SnStkgqQ7mCtJ8I7q1ixzr1QzSDS8tsd-iRtCS86_lbFRsLcmruuDSF6rI)/video/041/422/472224140_mp4_h264_aac_fhd.m3u8#cell=sg1&qos_ugc=1&qos_stail=1
+#EXTINF: 1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7e749180-7002-11ea-b006-9d7e706a5277/170862/27341615.png" group-title="SPORT VIP", Setanta Sport
+https://proxy-16.sg1.dailymotion.com/sec(-kHz2yg5cxxA1BkCmIG5ldROZM-AdTgSja7hKeSzuNjD5wih8SnStkgqQ7mCtJ8I7q1ixzr1QzSDS8tsd-iRtCS86_lbFRsLcmruuDSF6rI)/video/041/422/472224140_mp4_h264_aac_fhd.m3u8#cell=sg1&qos_ugc=1&qos_stail=1
+#EXTINF: 1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7e749180-7002-11ea-b006-9d7e706a5277/170862/27341616.png" group-title="SPORT VIP", EGG NETWORK
+http://210.210.155.66/h/h22/01.m3u8
+#EXTINF: 1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7e749180-7002-11ea-b006-9d7e706a5277/170862/27341617.png" group-title="SPORT VIP", Olympic
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+#EXTINF: 1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7e749180-7002-11ea-b006-9d7e706a5277/170862/27341618.png" group-title="SPORT VIP", GOLF CHANNEL
+https://proxy-16.sg1.dailymotion.com/sec(-kHz2yg5cxxA1BkCmIG5ldROZM-AdTgSja7hKeSzuNjD5wih8SnStkgqQ7mCtJ8I7q1ixzr1QzSDS8tsd-iRtCS86_lbFRsLcmruuDSF6rI)/video/041/422/472224140_mp4_h264_aac_fhd.m3u8#cell=sg1&qos_ugc=1&qos_stail=1
+#EXTINF: 1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7e749180-7002-11ea-b006-9d7e706a5277/170862/27341619.png" group-title="SPORT VIP", Fight Sports
+http://210.210.155.66/h/h05/01.m3u8
+#EXTINF: 1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7e749180-7002-11ea-b006-9d7e706a5277/170862/27341620.png" group-title="SPORT VIP", WWE NETWORK
+https://proxy-29.sg1.dailymotion.com/sec(EmIm9qZ57xxVtk2oHDZgShzbsl7ol9W9iRq_0sf0bHtlytGRcZd8v1cG8ECQ5Yy1CS7uhbZCQT2uOmDRrq9i0PsWiOVtTQawHbg5RqEhHkg)/video/729/702/472207927_mp4_h264_aac.m3u8#cell=sg1&qos_ugc=1&qos_stail=1
+#EXTINF: 1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7e749180-7002-11ea-b006-9d7e706a5277/170862/27341621.png" group-title="SPORT VIP", Star Sport 1
+http://fr-c.movply.stream/hls/star-sports-1-hd.m3u8
+#EXTINF: 1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7e749180-7002-11ea-b006-9d7e706a5277/170862/27341622.png" group-title="SPORT VIP", FS1
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+#EXTINF: 1 group-title="SPORT VIP", FS News
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF: 1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7e749180-7002-11ea-b006-9d7e706a5277/170862/27341624.png" group-title="SPORT VIP", AF Supersport 1
+https://proxy-16.sg1.dailymotion.com/sec(-kHz2yg5cxxA1BkCmIG5ldROZM-AdTgSja7hKeSzuNjD5wih8SnStkgqQ7mCtJ8I7q1ixzr1QzSDS8tsd-iRtCS86_lbFRsLcmruuDSF6rI)/video/041/422/472224140_mp4_h264_aac_fhd.m3u8#cell=sg1&qos_ugc=1&qos_stail=1
+#EXTINF: 1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7e749180-7002-11ea-b006-9d7e706a5277/170862/27341625.png" group-title="SPORT VIP", AF Supersport 2
+https://proxy-16.sg1.dailymotion.com/sec(-kHz2yg5cxxA1BkCmIG5ldROZM-AdTgSja7hKeSzuNjD5wih8SnStkgqQ7mCtJ8I7q1ixzr1QzSDS8tsd-iRtCS86_lbFRsLcmruuDSF6rI)/video/041/422/472224140_mp4_h264_aac_fhd.m3u8#cell=sg1&qos_ugc=1&qos_stail=1
+#EXTINF: 1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7e749180-7002-11ea-b006-9d7e706a5277/170862/27341626.png" group-title="SPORT VIP", AF Supersport 3
+https://proxy-16.sg1.dailymotion.com/sec(-kHz2yg5cxxA1BkCmIG5ldROZM-AdTgSja7hKeSzuNjD5wih8SnStkgqQ7mCtJ8I7q1ixzr1QzSDS8tsd-iRtCS86_lbFRsLcmruuDSF6rI)/video/041/422/472224140_mp4_h264_aac_fhd.m3u8#cell=sg1&qos_ugc=1&qos_stail=1
+#EXTINF: 1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7e749180-7002-11ea-b006-9d7e706a5277/170862/27341627.png" group-title="SPORT VIP", AF Supersport 4
+https://proxy-16.sg1.dailymotion.com/sec(-kHz2yg5cxxA1BkCmIG5ldROZM-AdTgSja7hKeSzuNjD5wih8SnStkgqQ7mCtJ8I7q1ixzr1QzSDS8tsd-iRtCS86_lbFRsLcmruuDSF6rI)/video/041/422/472224140_mp4_h264_aac_fhd.m3u8#cell=sg1&qos_ugc=1&qos_stail=1
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7e749180-7002-11ea-b006-9d7e706a5277/170862/27341628.png" group-title="SPORT VIP", BEIN SPORTS 1
+ttp://skdn.redi-vo.com/iptv/ch8111?code=103131497823984&key=33281
+#EXTINF: -1 group-title="SPORT VIP", BEIN SPORTS 2
+http://skdn.redi-vo.com/iptv/ch112?code=103131497823984&key=46098
+#EXTINF: -1 group-title="SPORT VIP", BEIN SPORTS 3
+http://skdn.redi-vo.com/iptv/ch8113?code=103131497823984&key=46519
+#EXTINF: -1 group-title="SPORT VIP", BEIN SPORTS 4
+http://skdn.redi-vo.com/iptv/ch114?code=103131497823984&key=46165
+#EXTINF: -1 group-title="SPORT VIP", BEIN SPORTS 5
+http://skdn.redi-vo.com/iptv/ch115?code=103131497823984&key=45992
+#EXTINF: -1 group-title="SPORT VIP", BEIN SPORTS 6
+http://skdn.redi-vo.com/iptv/ch117?code=103131497823984&key=58844
