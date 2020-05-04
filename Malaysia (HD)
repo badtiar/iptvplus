@@ -143,48 +143,6 @@ http://198.16.106.58:8278/aod361_twn/playlist.m3u8?tid=m02499032293817237413&ct=
 
 #EXTINF: 1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7e749180-7002-11ea-b006-9d7e706a5277/170854/27341459.png",Ceria HD
 http://47.240.60.73/xaors/mlxy.php?channel=e812a3049d85fef4f2ad37b145c9bd62
-
-#EXTINF:-1,Astro Awani 
-https://delivery.macan.live/stream/astro_awani/index.m3u8?token=jITBhpqD&v=20200308 
- 
-#EXTINF:-1,Astro Ceria 
-https://delivery.macan.live/stream/astro_ceria/index.m3u8?token=jITBhpqD&v=20200308 
- 
-#EXTINF:-1,Astro Oasis 
-https://delivery.macan.live/stream/astro_oasis/index.m3u8?token=jITBhpqD&v=20200308 
- 
-#EXTINF:-1,Astro Prima 
-https://delivery.macan.live/stream/astro_prima/index.m3u8?token=jITBhpqD&v=20200308 
- 
-#EXTINF:-1,Astro Ria 
-https://delivery.macan.live/stream/astro_ria/index.m3u8?token=jITBhpqD&v=20200308 
- 
-#EXTINF:-1,Astro Warna 
-https://delivery.macan.live/stream/astro_warna/index.m3u8?token=jITBhpqD&v=20200308 
  
 #EXTINF:-1,Astro Arena 
-https://delivery.macan.live/stream/macan_sport_9/index.m3u8?token=jITBhpqD&v=20200308 
- 
-#EXTINF:-1,Astro Supersport 1 
-https://delivery.macan.live/stream/macan_sport_10/index.m3u8?token=jITBhpqD&v=20200308 
- 
-#EXTINF:-1,Astro Supersport 2 
-https://delivery.macan.live/stream/macan_sport_11/index.m3u8?token=jITBhpqD&v=20200308 
- 
-#EXTINF:-1,Astro Supersport 3 
-https://delivery.macan.live/stream/macan_sport_12/index.m3u8?token=jITBhpqD&v=20200308 
- 
-#EXTINF:-1,Astro Supersport 4 
-https://delivery.macan.live/stream/macan_sport_13/index.m3u8?token=jITBhpqD&v=20200308 
- 
-#EXTINF:-1,Astro Cricket 
-https://delivery.macan.live/stream/macan_sport_14/index.m3u8?token=jITBhpqD&v=20200308 
- 
-#EXTINF:-1,Astro Setanta 
-https://delivery.macan.live/stream/macan_sport_41/index.m3u8?token=jITBhpqD&v=20200308 
- 
-#EXTINF:-1,Astro Eurosport 
-https://delivery.macan.live/stream/macan_sport_42/index.m3u8?token=jITBhpqD&v=20200308 
- 
-#EXTINF:-1,Astro WWE Network 
-https://delivery.macan.live/stream/macan_sport_15/index.m3u8?token=jITBhpqD&v=20200308 
+http://161.0.157.8/PLTV/88888888/224/3221226177/index.m3u8
