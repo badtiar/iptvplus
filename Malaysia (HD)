@@ -12,8 +12,8 @@ https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.
 #EXTINF:-1 group-title="Malaysia (HD)" tvg-logo="https://lh3.googleusercontent.com/-Oz9USHFMwbs/XrgdEjkc8mI/AAAAAAAAALE/Ug327DbqNAMksbp5V8ax7MjJ1yUSRnBrgCLcBGAsYHQ/h120/tv2-01.png",CH102 - TV2 FHD
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 
-#EXTINF: -1 group-title="Malaysia (HD)" tvg-logo="https://lh3.googleusercontent.com/-zRhOfaKf-OA/XrgchGtkf3I/AAAAAAAAAK8/N3JBLP1WHtc212kI0Hq9-Fo0iXwt93eqQCLcBGAsYHQ/h120/tv3-01.png",CH103 - TV3 FHD
-http://live8.cdn.iptv8k.org/review_stream/tv3kbmm21/20200825/23/i.m3u8
+#EXTINF: -1 group-title="Malaysia (HD)" tvg-logo="https://lh3.googleusercontent.com/-zRhOfaKf-OA/XrgchGtkf3I/AAAAAAAAAK8/N3JBLP1WHtc212kI0Hq9-Fo0iXwt93eqQCLcBGAsYHQ/h120/tv3-01.png",CH103 - TV3 hhD
+http://live8.cdn.iptv8k.org/review_stream/tv3kbmm21/i.m3u8
 
 #EXTINF: -1 group-title="Malaysia (HD)" tvg-logo="https://lh3.googleusercontent.com/-zRhOfaKf-OA/XrgchGtkf3I/AAAAAAAAAK8/N3JBLP1WHtc212kI0Hq9-Fo0iXwt93eqQCLcBGAsYHQ/h120/tv3-01.png",CH103 - TV3 HD
 http://cdn.lemmovie.com/live2/10.10.10.2:1977/hls/1259804_MY_RTM_TV1-20200709-1594288525.ts
