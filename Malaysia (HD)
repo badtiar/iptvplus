@@ -6,6 +6,32 @@ https://www.youtube.com/
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-nnmFbJ9mC_0/Xr9aGdQO4lI/AAAAAAAAAV8/PbDS2WMbArsBBzZQB_VDWV5cntjIvpiVwCLcBGAsYHQ/h120/ic_launcher-01.png",Customer Service Telegram @limautvcs
 https://www.youtube.com/
 
+
+#EXTINF:-1 tvg-logo="",&Flix HD : Source 1
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="",&Flix HD : Source 2
+http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="",&Flix HD : Source 3
+http://185.169.253.172:8080/iRCcIIWu4M/MzHdwFdqzD/157470
+
+
+#EXTINF:-1 tvg-logo="",&Prive HD : Source 1
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="",&Prive HD : Source 2
+http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="",&Prive HD : Source 3
+http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="",&Prive HD : Source 4
+http://pockettv.xyz/api/zee.m3u8?c=andprivehd
+
+#EXTINF:-1 tvg-logo="",&Prive HD : Source 5
+http://185.169.253.172:8080/iRCcIIWu4M/MzHdwFdqzD/127269
+
 #EXTINF:-1 group-title="Malaysia (HD)" tvg-logo="https://lh3.googleusercontent.com/-Qq4t3yTA_tE/XrgdeqEYBrI/AAAAAAAAALQ/HbhSOJ7LW-8WukiN-U4rI9RgfhofO5eJQCLcBGAsYHQ/h120/tv1-01.png",CH101 - TV1 FHD
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 
