@@ -27,27 +27,27 @@ http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
 http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
 
 #EXTINF:-1,test 1
-http://103.47.132.165/PLTV/88888888/224/3221227173/2.m3u8
+http://136.243.177.164/HBO/playlist.m3u8
 #EXTINF:-1,test 1
-http://103.47.132.165/PLTV/88888888/224/3221227191/2.m3u8
+http://spdixit.epizy.com/flixhd.php&e=.m3u8
 #EXTINF:-1,test 1
-http://103.47.132.165/PLTV/88888888/224/3221227113/1.m3u8
+http://www.tdxwow.com/live/t6u5b1q4/amlxy016/index.m3u8
 #EXTINF:-1,test 1
-http://moondreamer.net:8080/lOPYv707Ef/YSWWt9qayf/328253.m3u8
+http://www.tdxwow.com/live/t6u5b1q4/94eaeb48/index.m3u8
 #EXTINF:-1,MY ANIPLUS_HD
-http://moondreamer.net:8080/lOPYv707Ef/YSWWt9qayf/328254.m3u8
+http://www.tdxwow.com/live/t6u5b1q4/59559917/index.m3u8
 #EXTINF:-1,MY AOD_351
-http://moondreamer.net:8080/lOPYv707Ef/YSWWt9qayf/328255.m3u8
+http://www.stgiptv.online/dyos_session/mpd/HBO/red.m3u8
 #EXTINF:-1,MY AOD_352
-http://moondreamer.net:8080/lOPYv707Ef/YSWWt9qayf/328256.m3u8
+http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8 
 #EXTINF:-1,MY AOD_353
-http://moondreamer.net:8080/lOPYv707Ef/YSWWt9qayf/328257.m3u8
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 #EXTINF:-1,MY AOD_362
-http://moondreamer.net:8080/lOPYv707Ef/YSWWt9qayf/328258.m3u8
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8
 #EXTINF:-1,MY AOD_HD 363
-http://moondreamer.net:8080/lOPYv707Ef/YSWWt9qayf/328259.m3u8
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3064000.m3u8
 #EXTINF:-1,MY ARENA_HD
-http://moondreamer.net:8080/lOPYv707Ef/YSWWt9qayf/328260.m3u8
+http://edge.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
 #EXTINF:-1,MY ASTRO_RANIA
 http://moondreamer.net:8080/lOPYv707Ef/YSWWt9qayf/328261
 #EXTINF:-1,MY AWANI
